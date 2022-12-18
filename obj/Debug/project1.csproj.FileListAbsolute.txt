@@ -1,0 +1,8 @@
+D:\partition (D)\ABDO\projects\c#\cis 1st term projects\project1\bin\Debug\project1.exe.config
+D:\partition (D)\ABDO\projects\c#\cis 1st term projects\project1\bin\Debug\project1.exe
+D:\partition (D)\ABDO\projects\c#\cis 1st term projects\project1\bin\Debug\project1.pdb
+D:\partition (D)\ABDO\projects\c#\cis 1st term projects\project1\obj\Debug\project1.csproj.AssemblyReference.cache
+D:\partition (D)\ABDO\projects\c#\cis 1st term projects\project1\obj\Debug\project1.csproj.SuggestedBindingRedirects.cache
+D:\partition (D)\ABDO\projects\c#\cis 1st term projects\project1\obj\Debug\project1.csproj.CoreCompileInputs.cache
+D:\partition (D)\ABDO\projects\c#\cis 1st term projects\project1\obj\Debug\project1.exe
+D:\partition (D)\ABDO\projects\c#\cis 1st term projects\project1\obj\Debug\project1.pdb
